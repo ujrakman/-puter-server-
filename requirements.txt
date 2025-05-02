@@ -1,1 +1,6 @@
 flask
+requests
+gunicorn
+openai
+numpy
+pandas
